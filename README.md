@@ -25,13 +25,13 @@
 <h3 align="center">Статистика GitHub пользователя Pancakeboyman</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru&card_width=600" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">Наиболее используемые языки</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight&locale=ru" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&theme=tokyonight&locale=ru" alt="Top Langs" />
 </p>
 
 ---
