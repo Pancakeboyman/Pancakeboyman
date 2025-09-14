@@ -14,14 +14,21 @@
 
 ---
 
+## 🗨️ Discord
+
+[![Discord](https://img.shields.io/badge/Discord-Pancakeboyman__8-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/)
+
+---
+
 ## 📊 Статистика GitHub и языков
 
-<div align="center">
+### Статистика GitHub пользователя Pancakeboyman
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight&locale=ru" height="160" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru)
 
-</div>
+### Наиболее используемые языки
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight&locale=ru)
 
 ---
 
