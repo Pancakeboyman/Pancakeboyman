@@ -16,7 +16,7 @@
 
 ## 🗨️ Discord
 
-[![Discord](https://img.shields.io/badge/Discord-Pancakeboyman__8-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/)
+[![Discord](https://img.shields.io/badge/Discord-Pancakeboyman__8-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1133665013794607114)
 
 ---
 
