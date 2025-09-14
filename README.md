@@ -20,15 +20,19 @@
 
 ---
 
-## 📊 Статистика GitHub и языков
+<h2 align="center">📊 Статистика GitHub и языков</h2>
 
-### Статистика GitHub пользователя Pancakeboyman
+<h3 align="center">Статистика GitHub пользователя Pancakeboyman</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats" />
+</p>
 
-### Наиболее используемые языки
+<h3 align="center">Наиболее используемые языки</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight&locale=ru)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight&locale=ru" alt="Top Langs" />
+</p>
 
 ---
 
