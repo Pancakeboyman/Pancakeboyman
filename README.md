@@ -31,7 +31,7 @@
 <h3 align="center">Наиболее используемые языки</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&theme=tokyonight&locale=ru" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&theme=tokyonight&locale=ru&card_width=600" alt="Top Langs" />
 </p>
 
 ---
