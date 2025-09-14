@@ -14,18 +14,12 @@
 
 ---
 
-## 🗨️ Discord
-
-[![Discord](https://img.shields.io/badge/Discord-Pancakeboyman__8-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/)
-
----
-
-## 📊 GitHub Статистика
+## 📊 Статистика GitHub и языков
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pancakeboyman&show_icons=true&theme=tokyonight&locale=ru" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pancakeboyman&layout=compact&theme=tokyonight&locale=ru" height="160" />
 
 </div>
 
@@ -43,8 +37,8 @@
 <details>
 <summary>📫 Контакты</summary>
 
-- Discord: **Pancakeboyman_8**
-- Telegram: [@pancakeboyman](https://t.me/pancakeboyman)
+- Discord: [Pancakeboyman_8](https://discord.com/users/1133665013794607114)
+- Telegram: [Pancakeboyman_8](https://t.me/pancakeboymancreates)
 - GitHub: [Pancakeboyman](https://github.com/Pancakeboyman)
 
 </details>
